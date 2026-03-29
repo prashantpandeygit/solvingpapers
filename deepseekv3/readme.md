@@ -18,7 +18,7 @@ weights: https://huggingface.co/parkneurals/DeepSeekV3-8x2MoE
 
 ## Configuration
 
-| Parameter | Value |
+| | |
 |----------|------|
 | Dataset | TinyStories |
 | Epochs | 1 |
@@ -28,14 +28,14 @@ weights: https://huggingface.co/parkneurals/DeepSeekV3-8x2MoE
 
 ## Regularization
 
-| Parameter | Value |
+| | |
 |----------|------|
 | Attention Dropout | 0.1 |
 | Dropout | 0.1 |
 
 ## Optimization
 
-| Parameter | Value |
+| | |
 |----------|------|
 | Optimizer | AdamW |
 | Weight Decay | 0.1 |
@@ -46,7 +46,7 @@ weights: https://huggingface.co/parkneurals/DeepSeekV3-8x2MoE
 
 ## Mixture-of-Experts (MoE)
 
-| Parameter | Value |
+| | |
 |----------|------|
 | Experts | 8 |
 | Top-k Experts | 2 |
@@ -57,14 +57,14 @@ weights: https://huggingface.co/parkneurals/DeepSeekV3-8x2MoE
 
 ## Hardware
 
-| Parameter | Value |
+| | |
 |----------|------|
 | Platform | Kaggle |
 | GPU | 2xTesla T4 |
 
 ## Training
 
-| Metric | Value |
+| | |
 |-------|------|
 | Final Loss | 2.90068 |
 | Perplexity | 18.18644 |
