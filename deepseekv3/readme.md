@@ -3,7 +3,6 @@ weights: https://huggingface.co/parkneurals/DeepSeekV3-8x2MoE
 
 ## Architecture
 
-| Parameter | Value |
 |----------|------|
 | Model Type | Decoder (Transformer)|
 | Layers | 6 |
