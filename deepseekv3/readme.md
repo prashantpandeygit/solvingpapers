@@ -3,6 +3,8 @@ weights: https://huggingface.co/parkneurals/DeepSeekV3-8x2MoE
 
 logs: https://wandb.ai/pandeyps-rictrlab/dsv3-training
 
+paper: https://arxiv.org/abs/2412.19437
+
 ## Architecture
 
 |  |  |
