@@ -1,5 +1,5 @@
 ## DeepSeekV3 8x2 Mixture of Experts Model
-weights: https://huggingface.co/parkneurals/DeepSeekV3-8x2MoE
+weights: https://huggingface.co/parkneurals/DeepSeekV3
 
 logs: https://wandb.ai/pandeyps-rictrlab/dsv3-training
 
