@@ -1,4 +1,5 @@
 - **Activation Functions** - [Code](./activation%20functions)
+- **Attention Mechanisms** - [Code](./attention)
 - **Alexnet** - [Paper](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf), [Code](./alexnet/alexnet.py)
 - **Autoencoder** - [Paper](https://arxiv.org/abs/2201.03898), [Code](./autoencoder/autoencoder.ipynb)
 - **DeepseekV3** - [Paper](https://arxiv.org/abs/2412.19437), [Code](./deepseekv3/deepseekv3.ipynb)
